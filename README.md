@@ -3,7 +3,7 @@
 - 👨‍🎓 I’m Fresh Greaduate, with IPK 3,66.
 - 🌱 I’m currently learning java and MYSQL.
 - 👯 I’m looking to collaborate as Java Developer, Data Analyst.
-- 🤔 I’m looking for suggest for Automation, Data Analyst, Java Developer and database administration.
+- 🤔 I’m looking for suggest for Automation, Java Developer, database administration, Data Analyst.
 - 💬 Ask me about anything
 - 📫 How to reach me: panduseptiandito999@gmail.com
 
