@@ -26,7 +26,7 @@
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="xampp" width="30px" src="http://assets.computesta.com/xampp.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Netbeans" width="10px" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px Apache_NetBeans_Logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="xampp" width="10px" src="https://a.fsdn.com/allura/p/xampp/icon?1599843055?&w=90" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
