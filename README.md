@@ -1,4 +1,4 @@
-# Hi there, I'm Pandu Septiandito - aka [septian2410] 👋
+# Hi there, I'm Pandu Septiandito - aka [dito] 👋
 ## About me:
 - 👨‍🎓 I’m Fresh Greaduate, with IPK 3,66.
 - 🌱 I’m currently learning java and MYSQL.
