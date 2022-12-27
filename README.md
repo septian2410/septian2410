@@ -1,4 +1,4 @@
-# Hi there, I'm Pandu Septiandito👋
+# Hi there, I'm Pandu Septiandito
 ## About me:
 - 👨‍🎓 I’m Fresh Greaduate, with IPK 3,66.
 - 🌱 I’m currently learning java and MYSQL.
