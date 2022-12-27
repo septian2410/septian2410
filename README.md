@@ -2,7 +2,7 @@
 ## About me:
 - 👨‍🎓 I’m Fresh Greaduate, with IPK 3,66.
 - 🌱 I’m currently learning java and MYSQL.
-- 👯 I’m looking to collaborate as Java Developer. 
+- 👯 I’m looking to collaborate as Java Developer, Data Analyst.
 - 🤔 I’m looking for suggest for Automation, Data Analyst, Java Developer and database administration.
 - 💬 Ask me about anything
 - 📫 How to reach me: panduseptiandito999@gmail.com
@@ -13,7 +13,7 @@
  
 #### 2. [SMA Bina Dharma](https://sma-binadharma.sch.id) | MIPA | Jakarta `2016-2018`
 
-## Work Experience:
+## Last Project
 #### [Perguruan Trisoko](https://perguruantrisoko.sch.id/) | Fullstack Developer | Jakarta `Agustus'2022`
 -	Melakukan analisa permasalahan terhadap manajemen sekolah trisoko yang dalam penginputan data-datanya masih bersifat manual. Meliputi pendataan jadwal, siswa, guru dan administrasi.
 -	Membuat Rancangan layar tampilan aplikasi dengan Balsamiq Wireframes.
