@@ -20,7 +20,7 @@
 -	Using XAMPP as localhost server and MySQL database. 
 -	coding program with Netbeans IDE 8.2 text editor software and Java programming language.
 -	The final result of the Desktop-based Trisoko School Management System Application.
--	link github :
+- link to see project  : https://github.com/septian2410/APK-School-Management.git
 
 ### Languages and Tools:
 
