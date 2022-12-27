@@ -27,7 +27,7 @@
 [<img align="left" alt="xampp" width="30px" src="http://assets.computesta.com/xampp.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="netbeans" width="30px" src="https://img.utdstc.com/icon/04d/26f/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc:200" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="SQLiteStudio" width="30px" src="[https://img.utdstc.com/icon/04d/26f/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc:200](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.macupdate.com%2Fproducts%2F63142%2Fl%2Fsqlitestudio-logo.png%3Fv%3D1618334953&imgrefurl=https%3A%2F%2Fwww.macupdate.com%2Fapp%2Fmac%2F63142%2Fsqlitestudio&tbnid=36mPOXcC1xXxhM&vet=12ahUKEwjrlKnIppn8AhWPKbcAHRrmDRcQMygAegUIARCmAQ..i&docid=kbUlcYE1dQ5B_M&w=256&h=256&q=SQLiteStudio%20logo&ved=2ahUKEwjrlKnIppn8AhWPKbcAHRrmDRcQMygAegUIARCmAQ)" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="SQLiteStudio" width="30px" src="https://img2.pngdownload.id/20180508/bdq/kisspng-sqlite-manager-database-computer-icons-flower-red-safflower-framework-5af1fd7c1335f1.6396943815258085080787.jpg" style="padding-right:10px;" />][webdev]
 
 
 <br />
