@@ -15,11 +15,12 @@
 
 ## Last Project
 #### [Perguruan Trisoko](https://perguruantrisoko.sch.id/) | Fullstack Developer | Jakarta `Agustus'2022`
--	Melakukan analisa permasalahan terhadap manajemen sekolah trisoko yang dalam penginputan data-datanya masih bersifat manual. Meliputi pendataan jadwal, siswa, guru dan administrasi.
--	Membuat Rancangan layar tampilan aplikasi dengan Balsamiq Wireframes.
--	Menggunakan XAMPP sebagai localhost server dan database Mysql. 
--	Melakukan coding program dengan software text editor Netbeans IDE 8.2 dan Bahasa pemrograman Java.
--	Hasil akhir Aplikasi Sistem Manajemen Sekolah Trisoko berbasis Dekstop.
+-	Conducting a problem analysis of the management of the Trisoko school, where the input of data is still manual. Includes data collection schedules, students, teachers and administration.
+-	Create an application display screen design with Balsamiq Wireframes.
+-	Using XAMPP as localhost server and MySQL database. 
+-	coding program with Netbeans IDE 8.2 text editor software and Java programming language.
+-	The final result of the Desktop-based Trisoko School Management System Application.
+-	link github :
 
 ### Languages and Tools:
 
