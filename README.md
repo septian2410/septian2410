@@ -14,7 +14,7 @@
 #### 2. [SMA Bina Dharma](https://sma-binadharma.sch.id) | MIPA | Jakarta `2016-2018`
 
 ## Last Project
-#### [Perguruan Trisoko](https://perguruantrisoko.sch.id/) | Fullstack Developer | Jakarta `Agustus'2022`
+#### [SMP Trisoko Jakarta](https://perguruantrisoko.sch.id/) | Fullstack Developer | Jakarta `Agustus'2022`
 -	Conducting a problem analysis of the management of the Trisoko school, where the input of data is still manual. Includes data collection schedules, students, teachers and administration.
 -	Create an application display screen design with Balsamiq Wireframes.
 -	Using XAMPP as localhost server and MySQL database. 
